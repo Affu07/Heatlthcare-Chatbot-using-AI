@@ -41,3 +41,6 @@ Key Features:
 This application empowers users with preliminary health assessments, promotes proactive healthcare, and bridges the gap between digital tools and traditional medical services.
 
 
+Note: To access the full dataset or large files associated with this project, please download the repository as a ZIP file from GitHub. Navigate to the project page, click the green "Code" button, and select "Download ZIP". Extract the files locally to access all resources.
+
+
